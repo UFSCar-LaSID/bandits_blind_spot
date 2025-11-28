@@ -6,9 +6,9 @@ English | [Portuguese (BR)](./README_PT-BR.md)
     
 </div>
 
-# On the Impact of Matrix Factorization-based State Representation in Contextual Bandits Recommendation
+# The Bandit’s Blind Spot: The Critical Role of User State Representation in Recommender Systems
 
-Official repository for the paper "On the Impact of Matrix Factorization-based State Representation in Contextual Bandits Recommendation", $${\color{red}TODO: where published}$$
+Official repository for the paper "The Bandit’s Blind Spot: The Critical Role of User State Representation in Recommender Systems", published at the 41th ACM/SIGAPP Symposium On Applied Computing (2026).
 
 ## Abstract
 
@@ -330,11 +330,14 @@ A [Jupyter Notebook can be used to aggregate the results from multiple datasets]
 
 ## Citation
 
-$${\color{red}TODO: update after publication}$$
 If our project is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
 
 ```bib
-@inproceedings{<ref_name>,
-
+@inproceedings{pires2026,
+  title={The Bandit’s Blind Spot: The Critical Role of User State Representation in Recommender Systems},
+  author={Pires, Pedro R. and Azevedo, Gregorio F. and Campos, Pietro L. and Sereicikas, Rafael T. and Almeida, Tiago A.},
+  booktitle={Proceedings of the 41th ACM/SIGAPP Symposium on Applied Computing},
+  series={SAC 2026},
+  year={2026}
 }
 ```
